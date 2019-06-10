@@ -1,0 +1,11 @@
+<suite name="My suite">
+    <listeners>
+        <listener class-name="ExecutionListener" />
+    </listeners>
+    <test name="Test1">
+        <classes>
+            <class name="SampleTest"/>
+        </classes>
+    </test>
+
+</suite>
