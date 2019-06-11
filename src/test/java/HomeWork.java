@@ -11,7 +11,7 @@ public class HomeWork {
 
     @Test
     public  void homeWork() {
-        System.setProperty("webdriver.chrome.driver","source/chromedriver.exe");
+
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
         logger.debug("SET ChromeDriver");

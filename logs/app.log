@@ -1,3 +1,15 @@
 20:53:08.528 [main] DEBUG HomeWork - SET ChromeDriver
 20:53:15.539 [main] DEBUG HomeWork - OPEN https://otus.ru/
 20:53:16.143 [main] DEBUG HomeWork - QUIT https://otus.ru/
+21:20:10.705 [main] DEBUG HomeWork - SET ChromeDriver
+21:20:20.652 [main] DEBUG HomeWork - OPEN https://otus.ru/
+21:20:21.326 [main] DEBUG HomeWork - QUIT https://otus.ru/
+21:20:48.963 [main] DEBUG HomeWork - SET ChromeDriver
+21:21:03.857 [main] DEBUG HomeWork - OPEN https://otus.ru/
+21:21:04.524 [main] DEBUG HomeWork - QUIT https://otus.ru/
+21:22:15.289 [main] DEBUG HomeWork - SET ChromeDriver
+21:22:27.487 [main] DEBUG HomeWork - OPEN https://otus.ru/
+21:22:28.145 [main] DEBUG HomeWork - QUIT https://otus.ru/
+21:23:09.287 [main] DEBUG HomeWork - SET ChromeDriver
+21:23:27.067 [main] DEBUG HomeWork - OPEN https://otus.ru/
+21:23:27.716 [main] DEBUG HomeWork - QUIT https://otus.ru/
